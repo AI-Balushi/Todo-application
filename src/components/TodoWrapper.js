@@ -42,7 +42,8 @@ function TodoWrapper() {
     // console.log("todos", todos)
   return (
     <div className="TodoWrapper">
-        <h1>Web Development Tasks!</h1>
+        <h1>To-Do App Developed By</h1>
+        <h2>Abdul Waheed</h2>
         <TodoForm addTodo={addTodo}/>
 
         {/* Display Todos */}

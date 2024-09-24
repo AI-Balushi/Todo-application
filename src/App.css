@@ -35,6 +35,13 @@ h1 {
   color: var(--white-color);
   margin-bottom: 0.5rem;
   font-size: 1.75rem;
+
+}
+
+h2 {
+  color: #8e5093;
+  margin-bottom: 0.5rem;
+  font-size: 1.75rem;
 }
 
 .TodoWrapper {
